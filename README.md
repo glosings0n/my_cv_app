@@ -1,16 +1,17 @@
-# my_cv_app
+# A cv_app for Task2 HNG Internship
 
-A new Flutter project.
+A small app from the second task of HNG Internship...
 
-## Getting Started
+## Functionality
 
-This project is a starting point for a Flutter application.
+Simple in functionality with only 4 sections for basic CV, to a welcome page, which allows you to move to a home page which gives you a pre-filled information of  our person... for at the bottom right, you have a button that allows you to modify the CV information in real time...
 
-A few resources to get you started if this is your first Flutter project:
+### Tools
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Without any additional package, I had to use ValueNotifier and ValueListenableBuilder, which allow the information to be updated in real time when editing the CV
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Acknwoledgments
+
+It is a great pleasure to participate in this Internship, at least it pushes me to surpass myself every day, truly it is a great pleasure for me to be admitted to this Intership...
+
+Thanks!
